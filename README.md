@@ -1,9 +1,8 @@
-![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445 (1)](https://github.com/user-attachments/assets/7f29e437-e6db-4508-b4ca-b352aee14a76)
-
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0617&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0617" /> </p>
+<p align="left"> <img src=![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445 (1)](https://github.com/user-attachments/assets/c28ad144-402d-40ef-80bb-69b00d61e8c2)
+ /> </p>
 
 - 🔭 I’m currently working on **NewsApp**
 
