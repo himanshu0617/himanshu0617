@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0617&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0617" /> </p>
 - 🔭 I’m currently working on **NewsApp**
 
 - 🌱 I’m currently learning **React Native, Node.Js**
