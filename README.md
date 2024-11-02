@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
+ <div align="center">
+  <img src ="./banner.png" />
+</div>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0617&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0617" /> </p>
@@ -14,9 +17,6 @@
 - 📫 How to reach me **himanshukaran729@gmail.com**
 
 - ⚡ Fun fact **"When I’m not dominating in BGMI or Valorant, I'm likely enjoying a cricket game, devouring chole bhature, jamming to music, or perfecting the art of procrastination. Life's all about balance—strategy, excitement, and a dash of adventure!"**
-- <div align="center">
-  <img src ="./banner.png" />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
