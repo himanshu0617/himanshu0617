@@ -14,6 +14,9 @@
 - 📫 How to reach me **himanshukaran729@gmail.com**
 
 - ⚡ Fun fact **"When I’m not dominating in BGMI or Valorant, I'm likely enjoying a cricket game, devouring chole bhature, jamming to music, or perfecting the art of procrastination. Life's all about balance—strategy, excitement, and a dash of adventure!"**
+- <div align="center">
+  <img src ="./banner.png" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
